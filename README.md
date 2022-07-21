@@ -9,8 +9,8 @@ Passionate self-taught Programmer Learning C++ and Java.
 <img align="left" alt="Instgram" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 
-### Languages and Tools:
-<h1>
+</h3>### Languages and Tools: </h3>
+<h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="padding-right:10px;"/>
 
@@ -24,7 +24,7 @@ Passionate self-taught Programmer Learning C++ and Java.
 <img align="left" alt="SQL" width="26px" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" />
-</h1>
+</h2>
 
 <br />
 <br /> 
