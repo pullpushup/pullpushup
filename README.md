@@ -17,7 +17,7 @@ Passionate self-taught Programmer Learning C++ and Java.
 
 
 
-<img align="left" alt="Java" width="26px" src="https://sindhitutorials.com/images/mcqs/java.jpg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://symbols-electrical.getvecta.com/stencil_85/10_java-icon.03589ec2bf.jpg" style="padding-right:10px;" />
 
 <img align="left" alt="SQL" width="26px" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" style="padding-right:10px;" />
