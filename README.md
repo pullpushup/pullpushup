@@ -28,6 +28,6 @@ Passionate self-taught Programmer Learning C++ and Java.
 <br />
 
 <img align ="left" alt = "Ayushman's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=pullpushup&show_icons=true&theme=radical"
-     src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pullpushup&layout=compact"/>
+     img align ="left" alt = "Ayudshman's Github Stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pullpushup&layout=compact"/>
 
 
