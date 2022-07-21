@@ -5,11 +5,15 @@ Passionate self-taught Programmer Learning C++ and Java.
 - 🔭 I’m currently Understanding more about Linux. 
 - 🌱 I’m currently learning algorithms & Data Structure
 - 💬 Ask me about anything here 👇
-<h2>
-<img align="upper" alt="Instgram" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-  <img align="upper" alt="Instgram" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<h3>
+<img align="upper" alt="Instgram" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />
+ 
+  <img align="upper" alt="Discord" width="34px" src="https://static.wikia.nocookie.net/polskapersopedia/images/3/32/Discord_logo_okr%C4%85g%C5%82e.png/revision/latest?cb=20200101201518&path-prefix=pl" style="padding-right:10px;" />
 
-</h2>
+   <img align="upper" alt="Linkedin " width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" style="padding-right:10px;" />
+  
+  
+</h3>
 </h3>### Languages and Tools: </h3>
 <h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
