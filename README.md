@@ -2,7 +2,7 @@
 
 Passionate self-taught Programmer Learning C++ and Java.
 
-- 🔭 I’m currently Understanding algorithms
+- 🔭 I’m currently Understanding more about Linux. 
 - 🌱 I’m currently learning algorithms & Data Structure
 - 💬 Ask me about anything here  
 
