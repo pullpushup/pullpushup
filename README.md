@@ -78,7 +78,7 @@ I am also taking courses from Codecademy both theoretically and partially.
 
   
 
-<br/>  
+<br>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=pullpushup&&style=flat-square)  
   
@@ -86,7 +86,3 @@ I am also taking courses from Codecademy both theoretically and partially.
 <br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
