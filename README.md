@@ -1,4 +1,4 @@
-<h1>### Hi there, I'm Ayushman 👋</h1>
+<h1>## Hi there, I'm Ayushman 👋</h1>
 
 Passionate self-taught Programmer Learning C++ and Java.
 
