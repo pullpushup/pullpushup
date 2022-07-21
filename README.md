@@ -5,12 +5,18 @@ Passionate self-taught Programmer Learning C++ and Java.
 - 🔭 I’m currently Understanding more about Linux. 
 - 🌱 I’m currently learning algorithms & Data Structure
 - 💬 Ask me about anything here 👇
-<h3>
- 
 
+<a href="https://www.linkedin.com/in/ayushman-dwivedi-673b18134/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Ayushman | LinkedIn" width="30px"/></a>
+
+<a href="https://discordapp.com/users/555364252987162624"><img align="left" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" alt="Ayushman | Discord" width="30px"/></a>
+
+<a href="https://www.instagram.com/pull_push_up/"><img align="upper" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"  alt="Ayushman | Instagram" width="30px"/></a>
+                                                                                                                               
   
-</h3>
-</h3>### Languages and Tools: </h3>
+
+
+</b>Languages and Tools:</b> 
+
 <h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="padding-right:10px;"/>
