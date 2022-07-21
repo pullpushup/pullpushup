@@ -30,8 +30,8 @@ Passionate self-taught Programmer Learning C++ and Java.
 <img align ="left" alt = "Ayushman's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=pullpushup&show_icons=true&theme=radical"/>
 <img align = "right" alt = "Ayushman's Most use Language" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pullpushup&layout=compact"/> 
 
+[![Build Status](https://github-readme-stats.vercel.app/api/top-langs/?username=pullpushup&layout=compact)
+![GitHub](https://github-readme-stats.vercel.app/api?username=pullpushup&show_icons=true&theme=radical)
 
 
-header { border-bottom: 1px solid #000; }
-header > h1 { display: inline-block; }
-header span { margin-left: 100px; }
+
