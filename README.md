@@ -4,9 +4,11 @@ Passionate self-taught Programmer Learning C++ and Java.
 
 - 🔭 I’m currently Understanding more about Linux. 
 - 🌱 I’m currently learning algorithms & Data Structure
-- 💬 Ask me about anything <a href="dman1999q@gmai.com">here </a>
+- 💬 Ask me about anything here 👇
 
+<img align="left" alt="Instgram" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
+<h1>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -25,7 +27,7 @@ Passionate self-taught Programmer Learning C++ and Java.
 
 
 <br />
-<br />
+<br /> </h1>
 
 <img align="left" alt="Python" width="450px" src="https://github-readme-stats.vercel.app/api?username=pullpushup&show_icons=true&theme=radical" style="padding-right:10px;"/>
 
