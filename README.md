@@ -40,6 +40,8 @@ Passionate self-taught Programmer Learning C++ and Java.
 
 <img align="left" alt="Python" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pullpushup&layout=compact" style="padding-right:10px;"/>
 
+https://api.github.com/search/commits?q=author:<pullpushup>
+
 
 
 
