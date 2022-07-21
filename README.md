@@ -13,7 +13,7 @@
 
 
 
- 🔭 Understanding more about Linux.
+-  🔭 Understanding more about Linux.
 
   
   
