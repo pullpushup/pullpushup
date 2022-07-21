@@ -10,7 +10,8 @@ Passionate self-taught Programmer Learning C++ and Java.
  
   <img align="upper" alt="Discord" width="34px" src="https://static.wikia.nocookie.net/polskapersopedia/images/3/32/Discord_logo_okr%C4%85g%C5%82e.png/revision/latest?cb=20200101201518&path-prefix=pl" style="padding-right:10px;" />
 
-   <img align="upper" alt="Linkedin " width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" style="padding-right:10px;"  herf="https://discordapp.com/users/555364252987162624" />
+   <a herf="https://discordapp.com/users/555364252987162624"> 
+   <img align="upper" alt="Linkedin " width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" style="padding-right:10px;"> <a/>  
   
   
 </h3>
