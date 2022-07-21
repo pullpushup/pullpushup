@@ -18,7 +18,7 @@ Passionate self-taught Programmer Learning C++ and Java.
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pullpushup&show_icons=true&locale=en" alt="pullpushup" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pullpushup&show_icons=true&locale=en" alt="pullpushup" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pullpushup&show_icons=true&locale=en&layout=compact" alt="pullpushup" /></p>
 
 
