@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Unreal and 3D stuff
 - 📫 How to reach me: my email dman1999q@gmail.com
 
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
