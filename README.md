@@ -7,6 +7,7 @@ Passionate self-taught Programmer Learning C++ and Java.
 - 💬 Ask me about anything here 👇
 <h2>
 <img align="upper" alt="Instgram" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+  <img align="upper" alt="Instgram" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 </h2>
 </h3>### Languages and Tools: </h3>
