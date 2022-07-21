@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/7d314d6321e4c66a0bee3ef7431bbe2b5b85915a6d257214c9e8beff4f87b28f/68747470733a2f2f632e74656e6f722e636f6d2f5579487148345a356a693441414141432f626561722d68656c6c6f2e676966" align="center" style="width: 50%" />
+<img src="https://camo.githubusercontent.com/7d314d6321e4c66a0bee3ef7431bbe2b5b85915a6d257214c9e8beff4f87b28f/68747470733a2f2f632e74656e6f722e636f6d2f5579487148345a356a693441414141432f626561722d68656c6c6f2e676966" align="center" style="width: 75%" />
 </div>  
   
 
-### <div align="center">My name is Ayushman , I am C++ and Java Programmer 🚀
-</div>  
+### <H1 align="center">My name is Ayushman , I am C++ and Java Programmer 🚀
+</H1>  
   
   
 
