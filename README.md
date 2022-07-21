@@ -13,11 +13,15 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+[AyushmanPlaylist]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="padding-right:10px;"/>
+[AyushmanPlaylist]
 
 [<img align="left" alt="C" width="26px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" style="padding-right:10px;" />
+[AyushmanPlaylist]
 
 [<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:10px;" />
+[AyushmanPlaylist]
 
 
 <br />
