@@ -70,10 +70,6 @@ I am also taking courses from Codecademy both theoretically and partially.
 <br/>  
 
 
-## Github Stats  
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pullpushup&hide_border=true&layout=compact" align="left" />
 
 
 
