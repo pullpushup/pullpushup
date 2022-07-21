@@ -71,7 +71,7 @@ I am also taking courses from Codecademy both theoretically and partially.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="100%">
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pullpushup&hide_border=true&layout=compact" align="left" />
 
