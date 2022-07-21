@@ -30,5 +30,16 @@ Passionate self-taught Programmer Learning C++ and Java.
 <img align ="left" alt = "Ayushman's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=pullpushup&show_icons=true&theme=radical"/>
 <img align = "right" alt = "Ayushman's Most use Language" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pullpushup&layout=compact"/> 
 
+header {
+  display: flex;
+  align-items: center;
+  
+  /* Remove the next line if you want the span to appear next to the h1 */
+  justify-content: space-between;
+  
+  border-bottom: 1px solid #000;
+  padding: 10px 30px;
+}
+
 
 
