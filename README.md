@@ -74,15 +74,12 @@ I am also taking courses from Codecademy both theoretically and partially.
 
 
 
-<br/>  
+
 
   
 
-<br>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=pullpushup&&style=flat-square)  
+  
   
 
-<br/>  
 
 
