@@ -1,14 +1,14 @@
-### Hi there, I'm Ayushman 👋
+<h1>### Hi there, I'm Ayushman 👋</h1>
 
 Passionate self-taught Programmer Learning C++ and Java.
 
 - 🔭 I’m currently Understanding more about Linux. 
 - 🌱 I’m currently learning algorithms & Data Structure
 - 💬 Ask me about anything here 👇
-
+<h2>
 <img align="left" alt="Instgram" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-
+</h2>
 </h3>### Languages and Tools: </h3>
 <h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
