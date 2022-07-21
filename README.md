@@ -4,7 +4,7 @@ Passionate self-taught Programmer Learning C++ and Java.
 
 - 🔭 I’m currently Understanding more about Linux. 
 - 🌱 I’m currently learning algorithms & Data Structure
-- 💬 Ask me about anything here  
+- 💬 Ask me about anything <a href="dman1999q@gmai.com">here </a>
 
 
 ### Languages and Tools:
