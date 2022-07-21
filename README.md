@@ -7,15 +7,7 @@ Passionate self-taught Programmer Learning C++ and Java.
 - 💬 Ask me about anything here 👇
 <h3>
  
-[website](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/ayushman-dwivedi-673b18134/)
-[website](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/ayushman-dwivedi-673b18134/)
- 
-<img align="upper" alt="Instgram" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />
- 
-  <img align="upper" alt="Discord" width="34px" src="https://static.wikia.nocookie.net/polskapersopedia/images/3/32/Discord_logo_okr%C4%85g%C5%82e.png/revision/latest?cb=20200101201518&path-prefix=pl" style="padding-right:10px;" />
 
-
-  
   
 </h3>
 </h3>### Languages and Tools: </h3>
