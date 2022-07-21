@@ -33,10 +33,10 @@
   
   
 ### About me!
-I’m a Self-taught C++ and Java Programmer, I learned Java during high school, My assignment was to make a program with a store database in SQL We use Netbeans (IDE) and MySql. During my university when I was studying game design I started learning c# and c++ mainly to make games but I knew if I had to learn the advanced way I should start with basic which I did and still doing it. 
+I’m a Self-taught C++ and Java Programmer.
 
 I am also taking courses from Codecademy both theoretically and partially. 
-<a href="https://www.codecademy.com/profiles/ayushmanDwivedi6562732966 ">My Codecademy profile</a>
+
 
 
 ## Contat Me!
