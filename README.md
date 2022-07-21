@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="left" alt="C" width="26px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" style="padding-right:10px;" />
 
 
-<img align="left" alt="Java" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://www.pngitem.com/pimgs/m/465-4652406_java-logo-java-icon-png-transparent-png.png" style="padding-right:10px;" />
 
 <img align="left" alt="SQL" width="26px" src="https://thumbs.dreamstime.com/b/java-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-java-logo-editorial-illustrative-white-208329454.jpg" />
 
