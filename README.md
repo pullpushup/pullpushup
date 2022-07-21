@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Java" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" style="padding-right:10px;" />
 
-<img align="left" alt="SQL" width="26px" src="https://hh-certificates.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2021/11/11081503/9-92644_database-clipart-raw-data-azure-sql-server-png.png" />
+<img align="left" alt="SQL" width="26px" src="https://thumbs.dreamstime.com/b/java-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-java-logo-editorial-illustrative-white-208329454.jpg" />
 
 
 <br />
