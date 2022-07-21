@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Java" width="26px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" style="padding-right:10px;" />
 
-<img align="left" alt="SQL" width="26px" src="https://thumbs.dreamstime.com/b/java-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-java-logo-editorial-illustrative-white-208329454.jpg" />
+<img align="left" alt="SQL" width="26px" src="https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg" />
 
 
 <br />
