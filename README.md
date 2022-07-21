@@ -36,7 +36,7 @@ Passionate self-taught Programmer Learning C++ and Java.
 <br />
 <br /> 
 
-<img align="left" alt="Python" width="450px" src="https://github-readme-stats.vercel.app/api?username=pullpushup&show_icons=true&theme=radical" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="450px" src="https://github-readme-stats.vercel.app/api?username=pullpushup&show_icons=true&theme=vue" style="padding-right:10px;"/>
 
 <img align="left" alt="Python" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pullpushup&layout=compact" style="padding-right:10px;"/>
 
