@@ -1,7 +1,7 @@
  
   
 
-### <H1 align="center">My name is Ayushman , I am C++ and Java Programmer 🚀
+### <H1 align="center">My name is Ayushman , Game Tech/Enviro Artist Learning c++ and python 🚀
 </H1>  
   
   
