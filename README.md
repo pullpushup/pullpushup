@@ -31,7 +31,7 @@
   
   
 ### About me!
-I’m a Self-taught C++ and Java Programmer.
+I’m a Self-taught Blueprint HLSL and c++
 
 I am also taking courses from Codecademy both theoretically and partially. 
 
