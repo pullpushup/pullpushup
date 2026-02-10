@@ -16,7 +16,7 @@
   
   
 
-- 🌱I’m currently learning algorithms & Data Structure
+- 🌱I’m currently learning More about Blueprint HLSL and c++ everyday
 
   
   
